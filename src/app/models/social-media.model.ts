@@ -30,8 +30,7 @@ export const SocialMediaIconMap: Record<SocialMedia, SocialMediaIcons> = {
   [SocialMedia.GitHub]: SocialMediaIcons.GitHub,
   [SocialMedia.Instagram]: SocialMediaIcons.Instagram,
   [SocialMedia.LinkedIn]: SocialMediaIcons.LinkedIn,
-  [SocialMedia.TikTok]:
-SocialMediaIcons.TikTok,
+  [SocialMedia.TikTok]: SocialMediaIcons.TikTok,
   [SocialMedia.WhatsApp]: SocialMediaIcons.WhatsApp,
   [SocialMedia.WhatsAppGroup]: SocialMediaIcons.WhatsApp,
   [SocialMedia.YouTube]: SocialMediaIcons.YouTube,
